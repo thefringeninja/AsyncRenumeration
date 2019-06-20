@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncRenumeration", "AsyncRenumeration\AsyncRenumeration.csproj", "{F5EE54DF-3186-43ED-8A14-9BE9B119499B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5EE54DF-3186-43ED-8A14-9BE9B119499B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EE54DF-3186-43ED-8A14-9BE9B119499B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EE54DF-3186-43ED-8A14-9BE9B119499B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EE54DF-3186-43ED-8A14-9BE9B119499B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
